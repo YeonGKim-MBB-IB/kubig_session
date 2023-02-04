@@ -6,3 +6,6 @@ def triplesum(a, b):
 
 def triplesquare(a, b, c):
     return (a+b+c) ** 2
+
+def summinus(a, b):
+    return (a**2 + b**2) - (a+b) ** 2
